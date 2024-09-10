@@ -1,0 +1,18 @@
+Install:
+
+# Create Virtual Enc:
+python -m  venv ai
+
+# Activation:
+.\aiscrp\Scripts\activate.ps1
+
+# DeActivation:
+deactivate
+
+# Installing req:
+pip install -r requirements.txt   
+
+# running streamlit:
+streamlit run main.py
+
+# Download chromedriver.exe
